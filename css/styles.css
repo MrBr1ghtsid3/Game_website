@@ -38,11 +38,6 @@ body {
     margin: 25px 15px 45px 15px;
 }
 
-.social {
-    display: flex;
-    margin-left: auto !important;
-}
-
 .card-title {
     color: #fff;
 }
